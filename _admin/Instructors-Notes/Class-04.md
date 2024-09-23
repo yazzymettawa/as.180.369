@@ -19,7 +19,7 @@ Agenda for class:
  **Adrian** - Myst Walkthrough (100-140 minutes)
 
  **CC** - HW Assignment (140-150 minutes)
- - **whatever you think is best**
+ - **whatever you think is best** maybe something along the lines of nail down your topic and write a preliminary abstract on it
  - hammer out a very rough abstract and intro and use chatGPT to refine it
  - Draft an abstract & introduction to your paper.
    - Include a collection of papers you think you will cite.
