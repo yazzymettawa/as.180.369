@@ -3,7 +3,7 @@
 Agenda for class:
 
 **CC, Ethan** Introduction (0-5 minutes)
-- 
+
 
 (5-95 minutes)
 **Students** - Topic Pitches
@@ -19,6 +19,7 @@ Agenda for class:
  **Adrian** - Myst Walkthrough (100-140 minutes)
 
  **CC** - HW Assignment (140-150 minutes)
+**- whatever you think is best**
  - hammer out a very rough abstract and intro and use chatGPT to refine it
  - Draft an abstract & introduction to your paper.
    - Include a collection of papers you think you will cite.
