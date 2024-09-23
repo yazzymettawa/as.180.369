@@ -2,6 +2,7 @@
 - [ ] remember to turn on AI Summary for Class Zoom recording
 - [ ]EBM By 09/15: email students asking them to sign up for the NASA webinar if they haven't already
 - [ ]EBM By 09/16: discuss w/ CC that Paperpile actually costs $35
+- when we get to literature review explanation, point out to everyone that Litmaps won't be exhaustive, and it's good to try and do some outside research to find papers...Litmaps can miss good ones
 
 20240906-for-20240909 To Do List:
 - [ ]EBM By 09/09: print out faces of students for seating chart
