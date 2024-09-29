@@ -15,7 +15,8 @@ Agenda for class:
 *for adrian, topics that were useful to me: regressions, graphing, data frame, normalizing data, writing, citations,
 
 - maybe go through co pilot instructional about improving graphs and such
-- discuss important pieces of crafting lit review and abstract and introduction 
+- discuss important pieces of crafting lit review and abstract and introduction
+  - going over citation creation
 
  **Break**(95-100 minutes)
 
