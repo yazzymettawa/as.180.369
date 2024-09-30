@@ -20,20 +20,10 @@ Agenda for class:
 
  **Break**(95-100 minutes)
 
- **Adrian** - Myst Walkthrough (100-140 minutes)
+**Adrian** 
+- Walkthrough of the REMARK from Alan
+- How to cite and build your own notebook
+- Walkthrough of how to download from litmaps/paperpile and upload them into references.bib file
 
- **CC** - HW Assignment (140-150 minutes)
-TBD
-
-
-
-
-NOT USED BELOW:
- - **OR:** Draft an abstract & and introduction to your paper.
-   - Include a collection of papers you think you will cite.
-   - Refine the assortment of papers from Litmaps into a collection in Paperpile.
-   - Obtain PDF files of all papers.
-   - Add Paperpile tags to each paper to track their thesis.
- - Ensure you have new commits and rounds of Chat GPT editing on your paper visible via GitHub!
- - Space your work out across at least 3 days (we can track this).
+**HW** TBD-assigned by CC
 
