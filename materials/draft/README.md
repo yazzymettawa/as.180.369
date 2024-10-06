@@ -24,17 +24,11 @@
     - Do this across at least 3 commits over 2 days.
 - *TA* Review [Matt Zahn's ‘Job Market Paper’](https://github.com/matthew-zahn/matthew-zahn.github.io/blob/master/files/papers/choice_cost/JMPZahn.pdf). Bonus points for the person that finds the most typos!
 
-## Class 6 — Coping Strategies
+## Class 6 — Making Progress
 
 [Zoom recording. Requires JHU login.](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EQdZHFe5L8pJu5vCz0mMYIYBtB5NVxPLGpiDp8IxA43Nsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=uE33s1)
 
 **Agenda**
-- Share your *improved* visualization!
-    - Students will use Zoom to share their screen & Jupyter Notebook.
-    - Speak to the improvements made on the data visualization and justify
-      why you made those changes.
-    - We will work through any `git` difficulties you encountered.
-
 - *Grad TA* Coping with `git` and https://github.com (30 min.)
     - Getting your bearing at the command line
     - Getting your bearing with `git`
@@ -48,9 +42,9 @@
         - How to find and document missing packages?
 
 **Homework**
-- Continue working on the Introduction and Abstract for final papers.
-- Use ChatGPT to improve your writing. Please save your ChatGPT prompts in your commit messages.
-- Spread out commit messages over at least three days.
+- Complete NASA course and quiz so you get certificate
+- Continue working on the Literature Review and Abstract for final papers.
+- Make a start on the introduction
 
 **Helpful notes**
 - Abstract:
