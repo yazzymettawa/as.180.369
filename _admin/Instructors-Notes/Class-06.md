@@ -29,4 +29,4 @@ Agenda for class:
 *for adrian, topics that were useful to me: regressions, graphing, data frame, normalizing data, writing, citations,
 
 **HW** 
-- Complete NASA course and quiz so you get certificate  -
+- [Homework](https://github.com/llorracc/as.180.369/blob/main/materials/draft/README.md#homework)
