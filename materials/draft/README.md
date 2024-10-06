@@ -28,7 +28,7 @@
 
 [Zoom recording. Requires JHU login.](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EQdZHFe5L8pJu5vCz0mMYIYBtB5NVxPLGpiDp8IxA43Nsg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=uE33s1)
 
-**Agenda**
+### Agenda
 - *Grad TA* Coping with `git` and https://github.com (30 min.)
     - Getting your bearing at the command line
     - Getting your bearing with `git`
