@@ -41,7 +41,7 @@
         - How to recognize when packages are missing?
         - How to find and document missing packages?
 
-**Homework**
+### Homework
 - Complete NASA course and quiz so you get certificate
 - Continue working on the Literature Review and Abstract for final papers.
 - Make a start on the introduction
@@ -63,7 +63,7 @@
 
 [Zoom recording. Requires JHU login.](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EZZescblGOBEpvWgNGqhJ6YB3dSjrDGW49exKc_EnpGmSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=6m0VKz)
 
-**Agenda**
+### Agenda
 - Show us your Abstract & Introduction!
     - Share you experience in crafting Chat GPT prompts to give you feedback.
     - What advice did you accept? What advice did you reject?
@@ -99,7 +99,7 @@
 
 ## Class 8
 
-**Agenda**
+### Agenda
 - Discussions
 - Review pandas data loading
 - Write a paragraph on the tools/ideas you would consider using from the Korinek paper.
@@ -129,7 +129,7 @@ build-jb
 
 ## Class 9
 
-**Agenda**
+### Agenda
 
 - Present your literature summary & methodology sections.
     - 10 minutes per student.
@@ -149,7 +149,7 @@ build-jb
 ## Class 10
 [Zoom link](https://zoom.us/j/99322446014?pwd=TWVRZk9iaUpTTktxa1hoQmREYjRaUT09)
 
-**Agenda**
+### Agenda
 - Discuss your results section (10 minutes ea).
 - Discussion of ChatGPT/AI Whispering practices and approahces.
 - Demonstrate jupyter-nbconvert to export jupyter rise slides.
