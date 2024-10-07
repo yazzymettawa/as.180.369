@@ -10,10 +10,11 @@ Agenda for class:
 - demo NASA workshop video and quiz
 
 ~15min
-**Literatre review Q&A**
+**Literature review Q&A**
 - ABM: ask students to if they have any questions constructing their LitMaps and remind them that class participation is aprt of their grade.
 (5-45 minutes)
 
+~10min
 **Git review (ABM)**
 - ABM: log into sciserver
 - Launch terminal/ cd to scratch directory with Github repo / git status/
@@ -22,7 +23,8 @@ Agenda for class:
   - fetch fork and pull changes on terminal
   - push local changes back to fork
 - Make a copy from the stockmarket notebook (test before class)
-  
+
+~2h
 **Cam's video about graphics (ABM)**
 - Students should make changes irl with Cam using the notebooks he is using as well (Stockmarket)
 - Instructor: take breaks to see if students manage to implement Cams changes. (Use zoom handraising)
