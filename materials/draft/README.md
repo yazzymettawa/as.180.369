@@ -81,21 +81,18 @@
     - How do I create a new `pandas` DataFrame from some other data source?
         - How read a `.csv`, how to read an excel file (`.xls`, `.xlsx`)
 
-- *TA* Coping with the research process (30 min.)
-    - What do I do when I can’t move my research forward?
-    - What do I do when I can’t think of what else to write?
-    - How do I know I can trust my results?
-
 **Homework**
+- Read the [Korinek](https://www.aeaweb.org/articles?id=10.1257/jel.20231736) paper
+    - Add it to your paperpile
+    - Prepare to identify the tools/ideas you would consider using from the Korinek paper.
+    - In the next class, you will write a paragraph on the above.
 - Obtain and explore some data that are relevant to your topic.
     - Conduct an exploration/preliminary analysis of your obtained data set(s).
 - Be prepared to present to the class on your preliminary analysis of the data.
-- Make sure you are working on your Jupterhub and are `git add`ing and `git commit`ing
-  your work regularly.
-  - **Spread out commit messages over at least three days.**
+- Make sure you are working on your Jupterhub
+    - and are `git add`ing and `git commit`ing   your work regularly.
+    - **Spread out commit messages over at least three days.**
 - Prepare for 10 minute discussion where you are in the next class.
-- Prepare to identify the tools/ideas you would consider using from the Korinek paper.
-  - In the next class, you will write a paragraph on the above.
 
 ## Class 8
 
@@ -121,6 +118,11 @@ build-jb
 # note that this link should appear in your terminal screen, simply click on it to open it in a new tab.
 ```
 
+- *TA* Coping with the research process (30 min.)
+    - What do I do when I can’t move my research forward?
+    - What do I do when I can’t think of what else to write?
+    - How do I know I can trust my results?
+  
 **Homework**
 - Write a first draft of your literature summary.
 - Write a first draft of your methodology.
