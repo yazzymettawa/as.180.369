@@ -1,7 +1,8 @@
 This paper explores how labor force participation rates in the United States from 1920 to 2020 are influenced by political party governance at the state level. It investigates the role of political leadership in shaping social welfare programs, educational policies, and family planning initiatives. Using a Difference-in-Differences approach, the study analyzes changes in labor force participation over two-year periods, comparing states with Republican governors (treatment group) to those with Democratic governors (control group). By examining discrepancies in the rate of change across states, the paper identifies the influence of social welfare spending, educational attainment, and family planning policies on labor force participation. The findings suggest that Democratic leadership is associated with higher levels of social welfare spending, educational attainment programs, and policies encouraging family planning, all of which correlate with increased labor force participation.
 
 
-******Background Information: ADD INFO FROM LITERATURE REVIEW
+Background Information: Some social welfare programs have been shown to lead to less workers, but only when coinciding with economic shifts requiring less workers, suggesting that Disability Insurance, when coinciding with a reduction in need for low skilled labor, results in a decrease in unemployment rates (Duggan, ). 
+
 
 Problem Statement: 
 This paper explores how labor force participation rates in the United States from 1920 to 2020 are influenced by political party governance at the state level. It investigates the role of political leadership in shaping social welfare programs, educational policies, and family planning initiatives. Social and political factors causing labor force participation rates to vary, as well as political governance have both been analyzed prior, however the relationship between them and the wide scope of length is less studied. 
