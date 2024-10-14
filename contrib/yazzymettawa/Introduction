@@ -1,15 +1,16 @@
-Background Information: Briefly explain the broader context of your research topic. This helps readers understand why the topic is important and sets the stage for the study. It should address any relevant historical, social, theoretical, or scientific background.
+This paper explores how labor force participation rates in the United States from 1920 to 2020 are influenced by political party governance at the state level. It investigates the role of political leadership in shaping social welfare programs, educational policies, and family planning initiatives. Using a Difference-in-Differences approach, the study analyzes changes in labor force participation over two-year periods, comparing states with Republican governors (treatment group) to those with Democratic governors (control group). By examining discrepancies in the rate of change across states, the paper identifies the influence of social welfare spending, educational attainment, and family planning policies on labor force participation. The findings suggest that Democratic leadership is associated with higher levels of social welfare spending, educational attainment programs, and policies encouraging family planning, all of which correlate with increased labor force participation.
 
-Problem Statement: Clearly articulate the research problem or the gap in existing knowledge that your study aims to address. This is crucial for establishing the need for your research.
 
-Purpose and Objectives: Define the purpose of your research (e.g., to explore, analyze, evaluate, or solve a particular issue). Highlight the specific objectives or research questions your study aims to answer.
+******Background Information: ADD INFO FROM LITERATURE REVIEW
 
-Research Significance: Explain why your research is important. What contribution does it make to the field? This might involve highlighting the potential implications, practical applications, or theoretical advancements your research could provide.
+Problem Statement: 
+This paper explores how labor force participation rates in the United States from 1920 to 2020 are influenced by political party governance at the state level. It investigates the role of political leadership in shaping social welfare programs, educational policies, and family planning initiatives. Social and political factors causing labor force participation rates to vary, as well as political governance have both been analyzed prior, however the relationship between them and the wide scope of length is less studied. 
 
-Scope of the Study: Clarify the boundaries of your research (e.g., geographical area, time frame, or specific population). This helps the reader understand the limits of your study and what it does or does not cover.
+Purpose and Objectives: 
+The research question is: “How does the labor force participation rate from the 1920s until present in the United States vary with political party governance, as well as broader political and social factors, such as shifting views towards family, education policies, and social welfare programs, influence these trends?” 
 
-Overview of Methodology (optional but often useful): Briefly describe the research design or methodology you will use (qualitative, quantitative, mixed methods, etc.), especially if it is central to understanding the study's approach.
+Scope of the Study: Using the time period of the 1920s through 2020 means will ensure there is an adequate amount of data while also having set dates. The political parties every two years are analyzed in order to track changes in the political parties for the House of Representatives. This means the analysis will occur for years 1920, 1922, 1924, etc. And the boundaries are within the 48 states that composed the United States in 1920. 
 
-Thesis Statement: Conclude the introduction with a clear thesis statement or a hypothesis (if applicable). This statement will guide the direction of your research and tell readers what your paper aims to prove, analyze, or argue.
+Overview of Methodology (optional but often useful): Using a Difference-in-Differences approach, the study analyzes changes in labor force participation over two-year periods, comparing states with Republican governors (treatment group) to those with Democratic governors (control group). 
 
-Outline of the Structure (optional): Sometimes, especially in longer research papers, a brief outline of the structure of the paper can be included to guide the reader on what to expect in the subsequent sections.
+Thesis Statement: The findings suggest that Democratic leadership is associated with higher levels of social welfare spending, educational attainment programs, and policies encouraging family planning, all of which correlate with increased labor force participation.
