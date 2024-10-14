@@ -15,7 +15,7 @@ Chris gives feedback and asks about working with Chat-GPT
 ~15min
 **Adrian**
 - Working with data
-- Going through notebook of "stockmarket" (again)
+- Going through notebook of "pandas-basics" (under contrib/camriddell)
 - Focus on pandas, changing data frame, regression, dealing with output
 
 **Homoework**
