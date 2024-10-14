@@ -93,6 +93,8 @@
     - and are `git add`ing and `git commit`ing   your work regularly.
     - **Spread out commit messages over at least three days.**
 - Prepare for 10 minute discussion where you are in the next class.
+- **Once you're finished this, make sure to push all your work from your Sciserver into your Github Repo**
+  - Once you try this, if you find you're having difficulty with this, ask AI. If you're still struggling, reach out to Ethan or Adrian.
 
 ## Class 8
 
