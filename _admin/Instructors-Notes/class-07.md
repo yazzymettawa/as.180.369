@@ -7,6 +7,7 @@
 Chris gives feedback and asks about working with Chat-GPT
 
  **Break**(95-100 minutes)
+ 
 ~30min
 **Adrian**
 - Working with data
