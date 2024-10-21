@@ -121,7 +121,7 @@ build-jb .
 - Begin your data empirical work (regressions, etc.)
   - Write the first draft of your methodology section in conjunction with your regressions, etc. 
 - The above 2 sections of your paper should be in *separate* markdown files.
-    - For a reference, use [Alan Lujan's REMARK]().
+    - For a reference, use [Alan Lujan's REMARK](https://github.com/alanlujan91/SequentialEGM/blob/main/content/public/SequentialEGMn.pdf).
 
 ## Class 9
 
