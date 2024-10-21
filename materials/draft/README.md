@@ -101,7 +101,8 @@
 - Write a paragraph on the tools/ideas you would consider using from the Korinek paper.
 
   <!-- [myst](https://mystmd.org) to create a webpage with bibliography.-->
-
+- Writing your jupyterbook with multiple markdowns
+- 
 ```sh
 # copy jupyterbook folder contrib/cam/jupyterbook to your own contrib folder
 # navigate to the new copy of /jupyterbook your contrib folder
@@ -111,8 +112,7 @@
 
 build-jb .
 
-# open link jhu.econ-ark.org/user/{your user name}/proxy/{...}/ in new tab
-# note that this link should appear in your terminal screen, simply click on it to open it in a new tab.
+# open '_build/html'
 ```
   
 **Homework**
