@@ -107,7 +107,7 @@
   
 - Write a paragraph on the tools/ideas you would consider using from the Korinek paper.
 
-  <--! [myst](https://mystmd.org) to create a webpage with bibliography.-->
+  <!-- [myst](https://mystmd.org) to create a webpage with bibliography.-->
 
 ```sh
 # copy jupyterbook folder contrib/cam/jupyterbook to your own contrib folder
