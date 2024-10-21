@@ -120,7 +120,7 @@ build-jb .
   - utilize ChatGPT/Claude and commit improvements over 3 days
 - Begin your data empirical work (regressions, etc.)
   - Write the first draft of your methodology section in conjunction with your regressions, etc. 
-- The above 2 sections of your paper should be in *separate* Jupyter Notebooks.
+- The above 2 sections of your paper should be in *separate* markdown files.
     - For a reference, use [Alan Lujan's REMARK]().
 
 ## Class 9
