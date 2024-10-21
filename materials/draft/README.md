@@ -11,18 +11,11 @@
 
 **Agenda**
 - *TA* Discuss best practices for the visual communication of quantitative information.
-- *Grad TA* Review (and improve!) data visualizations from Matt Zahn's Code Demo
     - How to create Pull Request with our improvements.
 - *TA* Get and use your own FredAPI Key!
 
 **Homework**
-- Improve the data visualizations from [Matt Zahn's Code Demo](https://github.com/llorracc/as.180.369/blob/main/materials/code-demo/ZahnMVStockReturns.ipynb)
-    - Copy Matt’s Notebook into YOUR contrib folder and give it a new name.
-    - Update the visualization in this notebook you copied/renamed.
-    - `git add` and `git commit` your work.
-    - `git push` your changes from Jupyterhub to Github.
-    - Do this across at least 3 commits over 2 days.
-- *TA* Review [Matt Zahn's ‘Job Market Paper’](https://github.com/matthew-zahn/matthew-zahn.github.io/blob/master/files/papers/choice_cost/JMPZahn.pdf). Bonus points for the person that finds the most typos!
+
 
 ## Class 6 — Making Progress
 
