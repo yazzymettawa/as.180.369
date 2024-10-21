@@ -12,10 +12,13 @@ Agenda for class:
 **Korinek paragraph writing**
 - identify the tools/ideas you would consider using from the Korinek paper
 
-**Grad TA Demonstration citation and Pandas review**
-- Syntax for citing a paper using its Bibtex cite key
-- Review pandas data loading
-
+**Adrian** 
+- Walkthrough of the REMARK from Alan to show how a finished project might look like
+- Cover:
+  - Structure (one markdown file which includes others)
+  - Hyperlinks to websites, sections, papers
+  - Including pictures, notebooks (see in appendix)
+  - Math, footnotes, comments
 
 **HW** 
 - [Homework](https://github.com/llorracc/as.180.369/tree/main/materials/draft#agenda-2)
