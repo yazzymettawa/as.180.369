@@ -129,7 +129,7 @@ build-jb .
 
 ### Agenda
 
-- Present your literature summary & methodology sections.
+- Present your methodology section and any updates to your literature review section
     - 10 minutes per student.
 - *TA* Short presentation on job talk paper
 - *TA* Coping with Rejection (30 min.)
