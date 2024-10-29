@@ -7,7 +7,7 @@
 ## Contents
 
 * [Overview](#overview)
-  * [Useful Resources](**Useful Resources**)
+*[Useful Resources](#Useful-Resources**)
 * [Instructor—Chris Carroll](#instructorchris-carroll)
   * [Office Hours](#office-hours)
 * [Teaching Assistant—Adrian Monninger](#teaching-assistantadrian-monninger)
@@ -46,7 +46,7 @@ This course will be conducted by your instructor a graduate teaching assistant, 
 - Graduate Teaching Assistant: [Adrian Monninger <amonnin1@jhu.edu>]
 - Undergraduate Teaching Assistant: [Ethan Murinson <emurins1@jhu.edu>]
 
-**Useful Resources**
+## Useful Resources
 - Duke Writing in Economics: Economics Research Paper Writing Guide: [Here](https://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/econ.original.pdf)
 - Github Cheat Sheet: [Here](https://education.github.com/git-cheat-sheet-education.pdf)
 
