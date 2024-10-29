@@ -144,7 +144,7 @@ build-jb .
 - Debugging empirical work + How to use AI to help
 
 **Homework**
-- Write the first draft of the results section.
+- Write the first draft of the results section. ([Here's](https://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/econ.original.pdf) a great resource from Duke on writing this and other sections.)
     - You should break your text into a number of smaller markdown cells.
         - This makes it easier to use ChatGPT for editing.
     - Be sure to get ChatGPT feedback on your writing.
