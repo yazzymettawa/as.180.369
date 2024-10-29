@@ -7,6 +7,7 @@
 ## Contents
 
 * [Overview](#overview)
+  * [Useful Resources](**Useful Resources**)
 * [Instructor—Chris Carroll](#instructorchris-carroll)
   * [Office Hours](#office-hours)
 * [Teaching Assistant—Adrian Monninger](#teaching-assistantadrian-monninger)
