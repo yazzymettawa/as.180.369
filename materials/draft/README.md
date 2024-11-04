@@ -174,6 +174,7 @@ build-jb .
 
 **Homework**
 - Work on the presentation of your paper.
+- Break down your paper in multiple (at least 2) parts.
 - Revisit your LitMaps and highlight/callout/denote in someway the citations that you actually reference in your draft.
     - Use these papers as seeds and generate a new map. See if you find new papers.
     - Come prepared to discuss these new maps.
