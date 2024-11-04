@@ -156,8 +156,8 @@ build-jb .
 
 ### Agenda
 - Discuss your results section (10 minutes ea).
-- Discussion of ChatGPT/AI Whispering practices and approaches.
-- Demonstrate jupyter-nbconvert to export jupyter rise slides using [Beyond the Streetlight](https://github.com/dedwar65/beyond-the-streetlight)
+- Go over Beyond The Streetlight presentation to learn how to make presentations in HTML
+  - Demonstrate jupyter-nbconvert to export jupyter rise slides using [Beyond the Streetlight](https://github.com/dedwar65/beyond-the-streetlight)
 - Working with myst:
   - Create new econ-ark container
   - Restructure your paper as in contrib/AMonninger/Paper_Restructured
