@@ -157,7 +157,7 @@ build-jb .
 ### Agenda
 - Discuss your results section (10 minutes ea).
 - Go over Beyond The Streetlight presentation to learn how to make presentations in HTML
-  - Demonstrate jupyter-nbconvert to export jupyter rise slides using [Beyond the Streetlight](https://github.com/dedwar65/beyond-the-streetlight)
+  - Demonstrate jupyter-nbconvert to export jupyter rise slides using [Beyond the Streetlight](https://github.com/llorracc/beyond-the-streetlight)
 - Working with myst:
   - Create new econ-ark container
   - Restructure your paper as in contrib/AMonninger/Paper_Restructured
