@@ -5,7 +5,8 @@
   - git clone repo: git clone https://github.com/dedwar65/beyond-the-streetlight
   - discuss: RS100_Discussion_Slides.ipynb
   - on the RHS of jupyter-lab go to **property inspector** --> **common tools**
-  - jupyter-nbconvert vs **File** --> **Save and Export Notebook as** --> **Reveal.js Slides**
+  - ```jupyter-nbconvert RS100_Discussion_Slides.ipynb --to html```
+  - vs **File** --> **Save and Export Notebook as** --> **Reveal.js Slides**
   - If neccessary pip install RISE
 
 - Working with myst:
