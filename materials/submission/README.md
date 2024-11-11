@@ -22,6 +22,10 @@
         - mybinder is a tool that we can specify the specific versions of these
           things and generate a link that some one can click on and open a
           notebook with these things installed.
+    - Create a file of YOUR environment:
+      ```
+      conda env export --from-history -f environment.yml
+      ```
     - Sync your GitHub fork to assure that binder can access all information
 - In class work time.
     - Bring your questions.
