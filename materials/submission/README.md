@@ -36,4 +36,6 @@
 - Work on your Final Draft
 - Revisit your PaperPile
     - denote with a tag the citations that you actually reference in your draft
-    - Set up a workflow that will automatically update your bibfile when you change the papers you are referencing 
+    - Set up a workflow that will automatically update your bibfile when you change the papers you are referencing
+ 
+- Please create a final Litmap with all the papers you used(should be > 10 and < 100). Make sure to have tagging done right(a solid number of tags + show which papers address multiple tags in a single paper)
