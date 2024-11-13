@@ -23,9 +23,26 @@
           things and generate a link that some one can click on and open a
           notebook with these things installed.
     - Create a file of YOUR environment:
-      ```
-      conda env export --from-history -f environment.yml
-      ```
+        - In your paper directory
+        - Create a folder: binder 
+            ```
+            mkdir binder
+            cd binder
+            ```
+        - create the environment file: This will create a file with all installed packages including versions
+            ```
+            conda env export -f environment.yml
+            ```
+    - Create a reproduce.sh file:
+        - copy and paste the file from [AMonninger](../../contrib/AMonninger/Paper_Restructured)
+        - Replace jupyter notebook names with the file names of your paper
+        - give the script permission to be executable using your terminal
+          - ```ls -las``` (shows if it is executable)
+          - ```chmod u+x reproduce.sh ```
+          - ```ls -las```(reproduce.sh file should be green now)
+        - run the file using
+            ```/bin/bash reproduce.sh```
+        - NOTE: I build the paper using myst and save it as a pdf. To specify options here, adjust your myst.yml file
     - Sync your GitHub fork to assure that binder can access all information
 - In class work time.
     - Bring your questions.
