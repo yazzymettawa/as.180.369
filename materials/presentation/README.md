@@ -2,7 +2,7 @@
 
 ## Overview
 
-## Mon Nov 27
+## Mon Nov 18
 
 **Agenda**
 - Discussion of individual presentations (10 min ea).
