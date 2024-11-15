@@ -51,7 +51,7 @@
 
 **Homework**
 - Work on your Final Draft
-- Make sure reproduce.sh works for your paper
+- Make sure reproduce.sh works for your paper (using the instructions listed above in the Class Agenda)
 - Revisit your PaperPile
     - denote with a tag the citations that you actually reference in your draft
     - Set up a workflow that will automatically update your bibfile when you change the papers you are referencing
