@@ -4,7 +4,7 @@
 
 ## Mon Nov 18
 
-**[Homework from previous class](https://github.com/llorracc/as.180.369/tree/main/materials/draft#class-11)**
+**[Homework from previous class](https://github.com/llorracc/as.180.369/tree/main/materials/submission)**
 
 **Agenda**
 - Discussion of individual presentations (10 min ea).
