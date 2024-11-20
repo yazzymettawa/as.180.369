@@ -62,6 +62,9 @@
 # Homework
 - If you are a Windows user, install the Windows Subsystem for Linux(WSL)
 - Then, for all(Mac and WSL) install Miniconda from the Miniconda website (if using WSL, install inside WSL)
+- # Final Paper deadline moved to Friday December 6
+  - Make sure to increase the number of papers you're citing to ~15 or more
+  - Be sure to run your final paper through ChatGPT/AI multiple times before submitting
 
 ## Class 13
 
