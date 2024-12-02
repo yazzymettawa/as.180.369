@@ -2,11 +2,16 @@
 
 ## Overview
 
-## Mon Nov 27
+## Class 12
+
+**[Homework from previous class](https://github.com/llorracc/as.180.369/tree/main/materials/submission)**
 
 **Agenda**
 - Discussion of individual presentations (10 min ea).
+- Present your final (LitMap)
 - Tips & tricks for slideshow presenting.
+- reproduce.sh Q&A
+- Updating GitHub
 
 - Set computers up for miniconda.
     - Windows WSL https://learn.microsoft.com/en-us/windows/wsl/install 
@@ -54,7 +59,15 @@
 
 - Launch Jupyter Lab and view paper & presentation draft locally.
 
-## Mon Dec 4
+# Homework
+- If you are a Windows user, install the Windows Subsystem for Linux(WSL)
+- Then, for all(Mac and WSL) install Miniconda from the Miniconda website (if using WSL, install inside WSL)
+- Work on Presentations: Don't just make them a paraphrased version of your paper! (feel free to see the template linked [here](https://github.com/llorracc/as.180.369/blob/main/contrib/Beyond_the_Streetlight.ipynb)
+- # Final Paper deadline moved to Friday December 6
+  - Make sure to increase the number of papers you're citing to ~15 or more
+  - Be sure to run your final paper through ChatGPT/AI multiple times before submitting
+
+## Class 13
 
 **Agenda**
 - Presentations
